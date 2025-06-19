@@ -1,4 +1,4 @@
-baseurl:  #TODO 
+baseurl: https://pediaku.id #TODO 
 languageCode: en-us
 #theme: hugo-theme-stack hugo-theme-stack-3.17.0
 theme: hugo-theme-stack-3.17.0

@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Akazed.com - Edu & Tech",
+    "website": "https://akazed.com/",
+    "image": "akazed.png",
+    "description": "Panduan blogger, SEO, teknologi, game, internet, dan berita pendidikan dan try out."
+  },
+  {
+    "title": "Pediaku ID - Bloging & Tech Info",
+    "website": "https://pediaku.id/",
+    "image": "pediaku.png",
+    "description": "Pediaku adalah blog personal yang membahas hal-hal menarik seputar blogger, tutorial jekyll, teknologi dan tips bermain game."
+  },
+  {
+    "title": "Jadi Teman",
+    "website": "/",
+    "image": "pediaku.png",
+    "description": "Yuk jadi teman kami."
+  }
+]
